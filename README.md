@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I'm a Computer Engineering student at Pillai College of Engineering with a passion for Full Stack Development, Artificial Intelligence & Machine Learning. I enjoy building innovative projects and have experience working with Python, Java, C, & C++.<br>👯 Looking to collaborate on web projects<br>🌱 I’m currently learning :<br>Backend & Databses<br>⚡ Fun fact: I love turning ideas into real-world projects and experimenting with new technologies!
+🔭 I'm a Computer Engineering student at Pillai College of Engineering with a passion for Full Stack Development, Artificial Intelligence & Machine Learning. I enjoy building innovative projects and have experience working with Python, Java, C, & C++.<br>👯 Looking to collaborate on web projects<br>🌱 I’m currently learning :Backend & Databses<br>⚡ Fun fact: I love turning ideas into real-world projects and experimenting with new technologies!
 
 
 ## 🌐 Socials:
