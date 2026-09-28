@@ -63,7 +63,7 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=flat-square\&logo=docker\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ---
 
