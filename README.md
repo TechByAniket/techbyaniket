@@ -1,92 +1,98 @@
-## 👋 Hi, I'm Aniket
+# 👋 Hi, I'm Aniket Khemnar
 
-### 💫 About Me
+### 💻 Computer Engineering Student | Software Engineering • Full Stack • AI/ML
 
-🎓 Final-year **Computer Engineering student at Pillai University**, passionate about **Software Engineering, Full Stack Development, and AI/ML**.
+I'm a **final-year Computer Engineering student at Pillai University** who enjoys building practical software and understanding how systems work under the hood.
 
-💻 I primarily work with **Java, Spring Boot, React, Python, and PostgreSQL**, and enjoy building practical, scalable applications.
-
-🚀 Currently focused on **DSA, Java, Spring Boot, Backend Development, System Design, Cloud, and AI/ML**.
-
-🛠️ I enjoy turning ideas into real-world projects and exploring how software systems work beyond just the frontend.
-
-👯 Open to collaborating on **software, backend, full-stack, and AI/ML projects**.
-
-⚡ Fun fact: I enjoy building projects that solve actual problems rather than just following tutorials.
+* 🔭 Building full-stack applications with **Java, Spring Boot, React & PostgreSQL**
+* 🧠 Strengthening **DSA, Core Java, Backend Development & System Design**
+* 🤖 Exploring **AI/ML, Data Engineering & Cloud**
+* 🚀 Interested in **Software Engineering and AI/ML opportunities**
+* 🤝 Open to collaborating on **backend, full-stack and AI/ML projects**
+* ⚡ I like turning ideas into working products and learning by building
 
 ---
 
-## 🌐 Socials
+## 🛠️ Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/aniket-khemnar-4b7811286)
+### Languages
 
----
-
-# 💻 Tech Stack
-
-## 📝 Languages
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233670A0.svg?style=flat-square\&logo=python\&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=flat-square\&logo=c%2B%2B\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square\&logo=css3\&logoColor=white)
-
-## 🧩 Frameworks & Libraries
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233670A0?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
 ### Backend
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square\&logo=springboot\&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=flat-square\&logo=springsecurity\&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-%23000000.svg?style=flat-square\&logo=hibernate\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-%23000000?style=for-the-badge\&logo=hibernate\&logoColor=white)
 
 ### Frontend
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square\&logo=react\&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square\&logo=tailwind-css\&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+
+### Databases & Cloud
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-%233FCF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
 
 ### Data & ML
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square\&logo=pandas\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=flat-square\&logo=matplotlib\&logoColor=black)
-![Seaborn](https://img.shields.io/badge/seaborn-%231E88E5.svg?style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff?style=for-the-badge\&logo=matplotlib\&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-%231E88E5?style=for-the-badge)
 
-## 🗄️ Databases
+### Tools
 
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=flat-square\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=flat-square\&logo=mysql\&logoColor=white)
-![Supabase](https://img.shields.io/badge/supabase-%233FCF8E.svg?style=flat-square\&logo=supabase\&logoColor=white)
-
-## ☁️ Cloud & DevOps
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square\&logo=github\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%230078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-%23000000?style=for-the-badge&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ---
 
-## 🚀 What I'm Currently Working On
-
-* 🔹 Strengthening **DSA & Core Java** for Software Engineering roles
-* 🔹 Building backend systems with **Spring Boot & PostgreSQL**
-* 🔹 Exploring **Cloud & scalable backend architecture**
-* 🔹 Developing skills in **AI/ML and Data Engineering**
-* 🔹 Building and improving real-world full-stack projects
-
----
-
-## 📌 Featured Project
+## 🚀 Featured Project
 
 ### 🎪 CampusUtsav
 
-A full-stack college event management platform built with **Spring Boot, React, and PostgreSQL**, featuring role-based authentication, event registration, team management, QR-based attendance, eligibility validation, organizer analytics, and notifications.
+**Full-stack college event management platform** built with:
+
+`Spring Boot` `React` `PostgreSQL`
+
+Features include:
+
+* 🔐 Role-based authentication & protected routes
+* 👥 Team creation and event registration
+* 📱 QR-based attendance management
+* ✅ Eligibility validation
+* 📊 Organizer analytics
+* 📧 Notifications
+* ⚙️ REST APIs with layered backend architecture
 
 ---
 
+## 🏆 Achievements & Leadership
+
+* 🥇 **2nd Runner Up, Coder of the Year 2025–26**
+* 👨‍💻 **Technical Head — HackCelestial 3.0**, 24-hour national-level hackathon
+* 🎤 **Technical Speaker** — Web Application Development with Python (Flask)
+
 ---
 
-[![](https://visitcount.itsvg.in/api?id=TechByAniket\&icon=0\&color=0)](https://visitcount.itsvg.in)
+## 📫 Connect With Me
 
-<!-- Proudly created with GPRM -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/aniket-khemnar-4b7811286)
+
+---
+
+<p align="center">
+  <i>Building. Learning. Improving. 🚀</i>
+</p>
